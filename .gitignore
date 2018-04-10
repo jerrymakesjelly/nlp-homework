@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# materials
+1998-01-105-带音.txt
+20_newsgroups
